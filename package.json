@@ -1,0 +1,27 @@
+{
+  "name": "the-first",
+  "version": "1.0.0",
+  "description": "this first nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect  index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuongnguyenvan0488/nodejs_first.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "vuongnv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuongnguyenvan0488/nodejs_first/issues"
+  },
+  "homepage": "https://github.com/vuongnguyenvan0488/nodejs_first#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
